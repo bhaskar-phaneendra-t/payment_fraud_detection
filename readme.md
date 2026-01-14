@@ -215,35 +215,6 @@ This project uses centralized logging (`src/logger.py`) and custom exceptions (`
 
 ---
 
-## ✅ Is This Project Good?
-
-### 💡 Yes — It Is Professional
-
-What makes this project stand out:
-
-✅ Production-style folder structure  
-✅ Modular and reusable code  
-✅ Handling imbalance with SMOTE  
-✅ Hyperparameter Tuning  
-✅ Evaluation with multiple metrics  
-✅ Logging + Exception Handling  
-✅ Version-controlled  
-✅ Documented  
-
-
-
-## 🚀 Future Improvements
-
-Optional enhancements you can build:
-
-✅ Deploy model via FastAPI REST API  
-✅ Dashboard with Streamlit  
-✅ Automated threshold optimization  
-✅ Monitoring + Alerts  
-✅ Unit testing with pytest
-
----
-
 ## 👤 Author
 
 **Bhaskar (Phaneendra)**  

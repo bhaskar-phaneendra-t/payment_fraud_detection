@@ -1,0 +1,27 @@
+# Virtual environments
+projectenv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Models
+models/
+*.pkl
+
+# Data files
+data/raw/data_table.csv
+data/processed/processed_data.csv
+data/processed/
+
+# Reports
+reports/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -14,10 +14,7 @@ logs/
 models/
 *.pkl
 
-# Data files
-data/raw/data_table.csv
-data/processed/processed_data.csv
-data/processed/
+
 
 # Reports
 reports/

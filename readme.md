@@ -230,18 +230,7 @@ What makes this project stand out:
 ✅ Version-controlled  
 ✅ Documented  
 
-**Level:**  
-Intermediate → Advanced  
-**Portfolio-ready:** ✅  
-**Interview talking points:** ✅
 
----
-
-## 🧠 Interview-Ready Summary
-
-> “I built a full end-to-end fraud detection system using Python, handling data imbalance, performing feature engineering, training and tuning multiple models, and designed robust logging and exception handling. It follows best practices for production code.”
-
----
 
 ## 🚀 Future Improvements
 
@@ -259,9 +248,4 @@ Optional enhancements you can build:
 
 **Bhaskar (Phaneendra)**  
 Machine Learning | Data Science Enthusiast# transaction_fraud_detection
-# transaction_fraud_detection
-# transaction_fraud_detection
-# payment_fraud_detection
-# payment_fraud_detection
-# payment_fraud_detection
 # payment_fraud_detection
